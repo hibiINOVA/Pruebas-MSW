@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { render, screen } from '@testing-library/react'
-import Formulario from '../components/formulario'
+import Formulario from '../components/Formulario'
 import userEvent from '@testing-library/user-event' 
 
 describe('Lista serias', () => {
